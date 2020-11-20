@@ -1,10 +1,10 @@
 ﻿using ExcelDataReader;
-using LinkGenesis.FileDataManager.EnumData;
-using LinkGenesis.FileDataManager.Model;
+using FileDataManager.EnumData;
+using FileDataManager.Model;
 using System;
 using System.IO;
 
-namespace LinkGenesis.FileDataManager.Function
+namespace FileDataManager.Function
 {
     /// <summary>
     /// ExcelDataReader Descripting Url : 

@@ -2,7 +2,7 @@
 using System.Data;
 using System.Linq;
 
-namespace LinkGenesis.FileDataManager.Model
+namespace FileDataManager.Model
 {
     public class ExcelInfo
     {
